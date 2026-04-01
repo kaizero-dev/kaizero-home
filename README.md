@@ -1,4 +1,4 @@
-# kaizero.dev
+# [kaizero.dev](https://kaizero.dev)
 
 Personal portfolio landing page.
 
