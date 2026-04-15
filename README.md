@@ -6,4 +6,3 @@ Personal portfolio landing page.
 
 - **Framework**: SvelteKit
 - **Deploy**: Cloudflare Pages
-- **Font**: Sora (Google Fonts)
